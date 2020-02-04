@@ -1,2 +1,2 @@
-# TextGit
-string Replace jquery
+String replace jqurey
+
