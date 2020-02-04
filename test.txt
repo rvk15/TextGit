@@ -4,7 +4,7 @@ $j(document).ready(function() {
 $j(".es_txt_email").attr("placeholder", "Enter Your Email");
 });
 </script>
-
+=====================================================================
 <script>
 var $j = jQuery.noConflict();
 $j(document).ready(function(){
@@ -16,7 +16,7 @@ $j(".woocommerce-message-text").text(function () {
 	
 });
 </script>
-
+===========================================================
 
 <script>
 var $j = jQuery.noConflict();
@@ -29,8 +29,7 @@ $j(".woocommerce-message-text").text(function () {
 	
 });
 </script>
-
-
+===========================================================================
 <script>
 var $j = jQuery.noConflict();
 $j(document).ready(function(){
@@ -42,5 +41,4 @@ $j(".cart-empty").text(function () {
 	
 });
 </script>
-
-
+===================================================
